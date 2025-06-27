@@ -27,6 +27,6 @@ public class LE0
 	    obj1.setname("Mohit");
 	    
 	    System.out.println(obj1.getName() +" "+ obj1.getAge());
-		System.out.println("Hello World");
+		System.out.println("Hello World hehe");
 	}
 }
